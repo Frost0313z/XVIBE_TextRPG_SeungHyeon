@@ -51,4 +51,8 @@ WBS
 3. 전투 시스템
   - 치명타 시스템 구현
   - 회피 시스템 구현
+
++ GPT로 밸런스 기획 및 적용
+![image](https://github.com/user-attachments/assets/85393f12-809a-4995-87c7-9862dfb1700f)
+
   
