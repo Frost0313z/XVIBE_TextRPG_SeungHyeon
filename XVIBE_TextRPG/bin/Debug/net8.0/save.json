@@ -1,0 +1,146 @@
+{
+  "Name": "15",
+  "Job": "전사",
+  "Exp": 319,
+  "Level": 1,
+  "Gold": 1200,
+  "MaxHP": 130,
+  "CurrentHP": 75,
+  "MaxMP": 20,
+  "CurrentMP": 20,
+  "TotalATK": 25,
+  "TotalDEF": 27,
+  "Inventory": [
+    {
+      "Name": "전설의 마법 지팡이",
+      "Type": "Staff",
+      "ATK": 15,
+      "Price": 1000
+    }
+  ],
+  "EquippedWeapon": {
+    "Name": "전설의 마법 지팡이",
+    "Type": "Staff",
+    "ATK": 15,
+    "Price": 1000
+  },
+  "ArmorInventory": [
+    {
+      "Name": "용의 갑옷",
+      "Type": "Robe",
+      "DEF": 17,
+      "Price": 1000
+    }
+  ],
+  "EquippedArmor": {
+    "Name": "용의 갑옷",
+    "Type": "Robe",
+    "DEF": 17,
+    "Price": 1000
+  },
+  "Quests": [
+    {
+      "Name": "마을을 위협하는 몬스터 처치",
+      "IsAccepted": false,
+      "IsCompleted": true,
+      "IsRewardReceived": false
+    },
+    {
+      "Name": "장비를 장착해보자",
+      "IsAccepted": false,
+      "IsCompleted": false,
+      "IsRewardReceived": true
+    },
+    {
+      "Name": "더욱 더 강해지기!",
+      "IsAccepted": true,
+      "IsCompleted": false,
+      "IsRewardReceived": false
+    },
+    {
+      "Name": "아픈건 싫으니까 방어력에 올인하고자 합니다!",
+      "IsAccepted": false,
+      "IsCompleted": false,
+      "IsRewardReceived": true
+    },
+    {
+      "Name": "니 렙에 잠이 오냐?",
+      "IsAccepted": true,
+      "IsCompleted": false,
+      "IsRewardReceived": false
+    }
+  ],
+  "CurrentKillCount": 12,
+  "Consumables": [
+    {
+      "Name": "체력 포션(소)",
+      "HealHP": 50,
+      "HealMP": 0,
+      "Amount": 4,
+      "Type": "Potion"
+    },
+    {
+      "Name": "마나 포션(소)",
+      "HealHP": 0,
+      "HealMP": 50,
+      "Amount": 5,
+      "Type": "Potion"
+    },
+    {
+      "Name": "체력 포션(중)",
+      "HealHP": 100,
+      "HealMP": 0,
+      "Amount": 1,
+      "Type": "Potion"
+    },
+    {
+      "Name": "마나 포션(중)",
+      "HealHP": 0,
+      "HealMP": 100,
+      "Amount": 3,
+      "Type": "Potion"
+    },
+    {
+      "Name": "체력 포션(대)",
+      "HealHP": 200,
+      "HealMP": 0,
+      "Amount": 1,
+      "Type": "Potion"
+    },
+    {
+      "Name": "마나 포션(대)",
+      "HealHP": 0,
+      "HealMP": 200,
+      "Amount": 1,
+      "Type": "Potion"
+    },
+    {
+      "Name": "복합 포션(소)",
+      "HealHP": 50,
+      "HealMP": 50,
+      "Amount": 2,
+      "Type": "Potion"
+    },
+    {
+      "Name": "복합 포션(중)",
+      "HealHP": 100,
+      "HealMP": 100,
+      "Amount": 1,
+      "Type": "Potion"
+    },
+    {
+      "Name": "복합 포션(대)",
+      "HealHP": 200,
+      "HealMP": 200,
+      "Amount": 1,
+      "Type": "Potion"
+    },
+    {
+      "Name": "섬광탄",
+      "HealHP": 0,
+      "HealMP": 0,
+      "Amount": 3,
+      "Type": "FlashGrenade"
+    }
+  ]
+}

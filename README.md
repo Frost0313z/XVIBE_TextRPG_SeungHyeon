@@ -1,2 +1,2 @@
-# XVIBE_TextRPG_SeungHyeon
-1주일간 팀으로 작업한 TextRPG, XVIBE입니다.
+# XVIBE_TextRPG
+15조의 텍스트 RPG 입니다.
