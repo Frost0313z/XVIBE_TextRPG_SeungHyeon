@@ -25,7 +25,8 @@ WBS
 ![image](https://github.com/user-attachments/assets/d180353d-8c4d-444a-945a-d3391e0a37d3)
 
 
-1. 퀘스트 시스템
+# 1. 퀘스트 시스템
+
   - 퀘스트 클래스 생성 및 속성 정의
   - 퀘스트 완료 조건 판정 로직 
   - 반복 퀘스트의 경우 상태 리셋 함수
@@ -42,13 +43,15 @@ WBS
 ![image](https://github.com/user-attachments/assets/18516a60-4cef-4711-bfaf-649ff4781a71)
 
 
-2. 메인화면 UI
+# 2. 메인화면 UI
+
   - 캐릭터 상태 보기화면
 
 
 ![image](https://github.com/user-attachments/assets/b5234cb9-27fa-417c-8cd2-f00c3c96ea8c)
 
-3. 전투 시스템
+# 3. 전투 시스템
+
   - 치명타 시스템 구현
   - 회피 시스템 구현
 
