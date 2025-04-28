@@ -3,7 +3,9 @@
 
 2025-04-21 ~ 2025-04-25 1주일 기간동안 팀으로 작성한 TextRPG입니다.
 
+
 ![image](https://github.com/user-attachments/assets/66b167df-4a83-40e1-be13-fe16e9887c5f)
+
 
 시연 동영상
 - https://youtu.be/TWL9BDLtEyQ
@@ -14,10 +16,14 @@
 WBS
 - https://docs.google.com/spreadsheets/d/1Q1ninHfyRBeyCwqC1lThzJJveCIoO9XS6D9NDvZbIeI/edit?usp=sharing
 
+
+
 [팀에서 구현한 것들]
+
 
 ![image](https://github.com/user-attachments/assets/462e1441-15fd-4a14-8bc1-7b1fbd17bd3d)
 ![image](https://github.com/user-attachments/assets/d180353d-8c4d-444a-945a-d3391e0a37d3)
+
 
 1. 퀘스트 시스템
   - 퀘스트 클래스 생성 및 속성 정의
@@ -32,10 +38,13 @@ WBS
   - 퀘스트 보상 지급 처리
   - 플레이어 행동과 연동하여 퀘스트 조건 달성 확인 기능 기존 코드에 적용하기
 
+
 ![image](https://github.com/user-attachments/assets/18516a60-4cef-4711-bfaf-649ff4781a71)
+
 
 2. 메인화면 UI
   - 캐릭터 상태 보기화면
+
 
 ![image](https://github.com/user-attachments/assets/b5234cb9-27fa-417c-8cd2-f00c3c96ea8c)
 
