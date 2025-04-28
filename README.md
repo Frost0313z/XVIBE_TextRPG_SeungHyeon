@@ -2,7 +2,7 @@
 15조의 텍스트 RPG 입니다.
 
 2025-04-21 ~ 2025-04-25 1주일 기간동안 팀으로 작성한 TextRPG입니다.
-
+\n
 
 ![image](https://github.com/user-attachments/assets/66b167df-4a83-40e1-be13-fe16e9887c5f)
 
